@@ -1,0 +1,4 @@
+# hba_sql extension
+comment = 'PostgreSQL extension to manage pg_hba.conf file using SQL'
+default_version = '0.1'
+relocatable = false
